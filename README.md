@@ -35,7 +35,7 @@ I'm your father, i'm study in my school💻📚 and Algorithms enthusiast 🖥�
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/cpp-original.svg" width="48" height="48" alt="C++" />
+        <img src="[./img/cpp-original.svg](https://cloud.google.com/static/cpp/images/cpp-logo.png?hl=es-419)" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>

@@ -3,6 +3,9 @@
 <a href="https://codeforces.com/profile/Br4ulinho" target="_blank">
 <img src=https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
 </a>
+<a href="https://instagram.com/br4uli0__/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
+</a>
 
 <br/>
 

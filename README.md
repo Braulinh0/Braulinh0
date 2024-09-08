@@ -13,6 +13,6 @@
 
 I'm your father, i'm study in my school💻📚 and Algorithms enthusiast 🖥️🧙‍♂️ 
 
-- 🚩 I'm participating in Olimpiada Chilena de Informatica
-
+- 💻 I'm participating in Olimpiada Chilena de Informatica
+- 🧑🏻‍🏫 I am a teacher's assistant at the ACOIIN academy
 <br/>

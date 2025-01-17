@@ -10,8 +10,8 @@ I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast 
 - 🧑🏻‍🏫 I'm a teacher's assistant at the ACOIIN academy 
 - 🧑🏻‍💻 I study the C++ language
 
-<a href="https://github.com/Braulinh0/Braulinh0.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Braulinh0&repo=Braulinh0.github.io&theme=buefy" />
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 <br/>

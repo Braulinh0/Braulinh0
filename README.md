@@ -1,9 +1,5 @@
 # Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi @everyone, I'm Braulio 👋">
-</p>
-
 <a href="https://codeforces.com/profile/Br4ulinho" target="_blank">
 <img src=https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
 </a>

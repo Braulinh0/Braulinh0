@@ -14,8 +14,7 @@
 I'm Mr. Relations, I study at the National Institute 💻📚 and I'm an enthusiast of Algorithms (especially those in C++ 🫣)
 
 - 💻 I'm participating in the Chilean Informatics Olympiad
-- 🧑🏻‍🏫 I'm a teacher's assistant at the ACOIIN academy
-<a href="https://instagram.com/br4uli0__/" target="_blank">
+- 🧑🏻‍🏫 I'm a teacher's assistant at the ACOIIN academy <a href="https://instagram.com/br4uli0__/" target="_blank">
 <a>
 <img src=https://img.shields.io/badge/Instagram-445f9d?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>

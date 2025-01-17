@@ -1,4 +1,4 @@
-# Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi @everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/br4uli0__/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a> <a href="https://steamcommunity.com/profiles/76561199112198575/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
 <br/>

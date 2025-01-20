@@ -5,9 +5,9 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=BraulinhO&show_icons=true&count_private=true&hide_border=true">
 I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast of Algorithms (especially those in C++)
 
-- I'm participating in the Chilean Informatics Olympiad
-- I'm a teacher's assistant at the ACOIIN academy 
-- I study the C++ language and a little bit of Python
+- I'm participating in the Chilean Informatics Olympiad 🤓
+- I'm a teacher's assistant at the ACOIIN academy 👨‍🏫
+- I study the C++ language and a little bit of Python 📚
   
 - Discord: **@braulinho**
 - Codeforces: **@Br4ulinho**

@@ -1,10 +1,8 @@
 # Hi @everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/br4uli0__/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a> <a href="https://steamcommunity.com/profiles/76561199112198575/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
-
 <br/>
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=BraulinhO&show_icons=true&count_private=true&hide_border=true">
-
 I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast of Algorithms (especially those in C++)
 
 - I'm participating in the Chilean Informatics Olympiad 💻

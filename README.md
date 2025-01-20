@@ -10,7 +10,7 @@ I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast 
 - I study the C++ language and a little bit of Python 📚
   <br> </br>
 - Discord: **@braulinho**
-<a href="https://codeforces.com/profile/Br4ulinho">- Codeforces: **@Br4ulinho**</a>
+<a href="https://codeforces.com/profile/Br4ulinho" text_decoration=none>- Codeforces: **@Br4ulinho**</a>
 - Atcoder: **@Braulinho**
   
 <p align="center">

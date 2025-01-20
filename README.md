@@ -6,9 +6,10 @@
 
 I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast of Algorithms (especially those in C++)
 
-- 💻 I'm participating in the Chilean Informatics Olympiad
-- 🧑🏻‍🏫 I'm a teacher's assistant at the ACOIIN academy 
-- 🧑🏻‍💻 I study the C++ language
+- I'm participating in the Chilean Informatics Olympiad 💻
+- I'm a teacher's assistant at the ACOIIN academy 🧑🏻‍🏫 
+- I study the C++ language 🧑🏻‍💻
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>

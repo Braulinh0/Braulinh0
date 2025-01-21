@@ -15,7 +15,7 @@ I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast 
 - Codeforces: **@Br4ulinho**
 - Atcoder: **@Braulinho**
   
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"> <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"> <img src"https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braulio-peña-sepúlveda-610652281">
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"> <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"> <img src"https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
   
 
 

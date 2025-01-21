@@ -13,7 +13,7 @@ I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast 
 - Codeforces: **@Br4ulinho**
 - Atcoder: **@Braulinho**
 
-<img src="https://github-readme-stats.vercel.app/api?username=BraulinhO&count_private=true&show_icons=true&include_all_commits=true" alt="Github Stats" />
+https://github-readme-stats.vercel.app/api?username=BraulinO&count_private=true&show_icons=true&include_all_commits=true
   
 <br/>
 

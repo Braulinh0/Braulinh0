@@ -12,9 +12,9 @@ I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast 
 - Discord: **@braulinho**
 - Codeforces: **@Br4ulinho**
 - Atcoder: **@Braulinho**
-- 
+  
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=BraulinhO&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800&">
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=BraulinhO&layout=donut">
 
 <br/>
 

@@ -14,7 +14,7 @@ I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast 
 - Discord: **@braulinho**
 - Codeforces: **@Br4ulinho**
 - Atcoder: **@Braulinho**
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"> <img src="https://visitor-badge.laobi.icu/badge?page_id=BraulinhO">
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"> <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
   
 
 

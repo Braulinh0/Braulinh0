@@ -13,7 +13,7 @@ I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast 
 - Codeforces: **@Br4ulinho**
 - Atcoder: **@Braulinho**
   
-<img align="right" width="50%" src="https://i.pinimg.com/236x/05/49/86/05498664d54894f92c6523c50c1eb9e6.jpg">
+<img align="right" width="30%" src="https://i.pinimg.com/236x/05/49/86/05498664d54894f92c6523c50c1eb9e6.jpg">
 
 <br/>
 

@@ -14,7 +14,7 @@ I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast 
 - Atcoder: **@Braulinho**
     
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BraulinhO&count_private=true&show_icons=true&include_all_commits=true" alt="Github Stats" />
 </p>
   
 <br/>

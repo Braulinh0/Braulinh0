@@ -11,8 +11,8 @@ I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast 
 - I'm a teacher's assistant at the ACOIIN academy 👨‍🏫
 - I study the C++ language and a little bit of Python 📚
   <br> </br>
-- Discord: **@braulinho** <img src="https://img.shields.io/badge/%40braulinho-Add-green?logo=Discord">
-- Codeforces: **@Br4ulinho** <img src="https://img.shields.io/badge/Codeforces-928-orange?logo=Codeforces">
+- Discord: **@braulinho**      <img src="https://img.shields.io/badge/%40braulinho-Add-green?logo=Discord">
+- Codeforces: **@Br4ulinho**   <img src="https://img.shields.io/badge/Codeforces-928-orange?logo=Codeforces">
 - Atcoder: **@Braulinho**
   
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"> <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">

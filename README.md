@@ -14,8 +14,7 @@ I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast 
 - Atcoder: **@Braulinho**
   
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=BraulinhO&show_icons=true&count_private=true&hide_border=true">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=BraulinhO&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800
-">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=BraulinhO&show_icons=true&count_private=true&hide_border=true&cache_seconds=1800">
 
   
 <br/>

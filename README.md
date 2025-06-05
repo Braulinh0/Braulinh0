@@ -17,6 +17,9 @@ I'm Braulinho, I study at the National Institute 💻📚 and I'm an enthusiast 
   
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"> <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
   
+### 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Braulinh0&show_icons=true&theme=radical)
 
 
 <br/>

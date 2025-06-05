@@ -9,9 +9,10 @@
 
 <h2 align="left">
   My Accounts
-  <a href="https://www.instagram.com/br4uli0__/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="60"/></a> 
-  <a href="https://steamcommunity.com/profiles/76561199112198575/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam" width="60"/></a> 
 </h2>
+
+<a href="https://www.instagram.com/br4uli0__/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="60"/></a> 
+<a href="https://steamcommunity.com/profiles/76561199112198575/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam" width="60"/></a> 
 
 ---
 

@@ -16,7 +16,8 @@ I'm **Braulinho**, I study at the **National Institute** 💻📚 and I'm an ent
   
 - 🧠 I'm participating in the **Chilean Informatics Olympiad**  
 - 👨‍🏫 I'm a **teacher's assistant** at the **ACOIIN academy**  
-- 💬 I study the **C++** language and a little bit of **Python**  
+- 💬 I study the **C++** language and a little bit of **Python**
+<br></br> 
 - 💬 Discord: **@braulinho**  
 - 🧮 Codeforces: **@Br4ulinho**  
 - 🔢 Atcoder: **@Braulinho**

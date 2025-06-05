@@ -30,7 +30,7 @@ I'm **Braulinho**, I study at the **National Institute** 💻📚 and I'm an ent
 
 </td>
 <td align="center" width="30%">
-  <img src="https://i.pinimg.com/236x/05/49/86/05498664d54894f92c6523c50c1eb9e6.jpg" width="360px">
+  <img src="https://i.pinimg.com/236x/05/49/86/05498664d54894f92c6523c50c1eb9e6.jpg" width="6900px">
 </td>
   </tr>
 </table>

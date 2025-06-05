@@ -29,8 +29,8 @@ I'm **Braulinho**, I study at the **National Institute** 💻📚 and I'm an ent
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
 
 </td>
-<td align="center" width="60%">
-  <img src="https://i.pinimg.com/236x/05/49/86/05498664d54894f92c6523c50c1eb9e6.jpg" width="180px">
+<td align="center" width="30%">
+  <img src="https://i.pinimg.com/236x/05/49/86/05498664d54894f92c6523c50c1eb9e6.jpg" width="360px">
 </td>
   </tr>
 </table>
